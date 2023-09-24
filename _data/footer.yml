@@ -1,0 +1,30 @@
+# This file allows us to add or delete navigation links in the footer bar
+left_links:
+- name: About
+  link: /about/
+- name: Events
+  link: /events/
+- name: Media
+  link: /media/
+- name: Literature
+  link: /members/
+- name: Members Only
+  link: /members/
+
+right_links:
+  - name: Instagram
+    link: https://www.instagram.com/mislwpgs/
+    social_icon: Instagram
+    new_window: true
+  - name: Merch
+    link: 
+    social_icon: 
+    new_window: true
+  - name: Newsletter
+    link: 
+    social_icon: 
+    new_window: true
+  - name: Donate
+    link: 
+    social_icon: 
+    new_window: true
