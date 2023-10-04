@@ -1,7 +1,7 @@
 .button a, input[type=submit] {
-	color: #7F5B53;
+	color: #979797;
 	text-decoration: none;
-	border: 2px solid #7F5B53;
+	border: 2px solid #ffffff;
 	transition: .2s ease-in-out;
 	display: inline-block;
 	padding: 16px 50px;
@@ -18,13 +18,13 @@
 
 // exactly the same as previous button but display is block
 .button-all-events a{
-	color: white;
+	color: rgb(80, 79, 79);
 	text-decoration: none;
-	border: 2px solid #7F5B53;
+	border: 2px solid #ffffff;
 	transition: .2s ease-in-out;
 	display: block;
 	padding: 16px 50px;
-	background: #7F5B53;
+	background: #c6c6c6;
 	    max-width: 160px;
     margin: auto;
     text-align: center;
@@ -37,15 +37,15 @@
 }
 
 .button a:hover, input[type=submit]:hover {
-	background: #7F5B53;
-	color: white;
+	background: #ffffff;
+	color: rgb(0, 0, 0);
 	cursor: pointer;
 	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.0);
 }
 
 .button-all-events a:hover, input[type=submit]:hover {
-	background: #7F5B53;
-	color: #fff;
+	background: #ffffff;
+	color: #000000;
 	cursor: pointer;
 	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.0);
 }
@@ -57,8 +57,8 @@
 }
 
 .button.alt a:hover {
-	background: #F5EDE7;
-	color: #7F5B53;
+	background: #444444;
+	color: #ffffff;
 	text-shadow: none;
 }
 
